@@ -14,7 +14,7 @@ class HoldenTest {
         String holdenEngin = holden.startEngine();
 
         //Then
-        assertEquals("Holden-> startEngine()", holdenEngin);
+        assertEquals("Holden -> startEngine()", holdenEngin);
 
     }
 

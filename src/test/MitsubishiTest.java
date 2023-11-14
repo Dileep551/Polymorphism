@@ -14,7 +14,7 @@ class MitsubishiTest {
         String mitsubishiEngin = mitsubishi.startEngine();
 
         //Then
-        assertEquals("Mitsubishi-> startEngine()", mitsubishiEngin);
+        assertEquals("Mitsubishi -> startEngine()", mitsubishiEngin);
 
     }
 

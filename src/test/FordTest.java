@@ -15,7 +15,7 @@ class FordTest {
         String fordEngin = ford.startEngine();
 
         //Then
-        assertEquals("Ford-> startEngine()", fordEngin);
+        assertEquals("Ford -> startEngine()", fordEngin);
 
     }
 
